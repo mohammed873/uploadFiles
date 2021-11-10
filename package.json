@@ -1,0 +1,11 @@
+{
+  "name": "upload_media",
+  "version": "1.0.0",
+  "description": "this is small project to show how to use cloudinary and multer to save files in online server",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server"
+  },
+  "author": "mohammed elhachimi",
+  "license": "ISC"
+}
